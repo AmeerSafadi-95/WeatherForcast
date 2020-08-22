@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/WeatherForcast/static/css/main.e7362764.chunk.css",
+    "main.js": "/WeatherForcast/static/js/main.2b5100f2.chunk.js",
+    "main.js.map": "/WeatherForcast/static/js/main.2b5100f2.chunk.js.map",
+    "runtime-main.js": "/WeatherForcast/static/js/runtime-main.bbfe4ede.js",
+    "runtime-main.js.map": "/WeatherForcast/static/js/runtime-main.bbfe4ede.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/WeatherForcast/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.fe4d92a5.chunk.js": "/WeatherForcast/static/js/2.fe4d92a5.chunk.js",
+    "static/js/2.fe4d92a5.chunk.js.map": "/WeatherForcast/static/js/2.fe4d92a5.chunk.js.map",
+    "index.html": "/WeatherForcast/index.html",
+    "precache-manifest.e33b84f85be9e45d429e5dc7d9973e9b.js": "/WeatherForcast/precache-manifest.e33b84f85be9e45d429e5dc7d9973e9b.js",
+    "service-worker.js": "/WeatherForcast/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/WeatherForcast/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.e7362764.chunk.css.map": "/WeatherForcast/static/css/main.e7362764.chunk.css.map",
+    "static/js/2.fe4d92a5.chunk.js.LICENSE.txt": "/WeatherForcast/static/js/2.fe4d92a5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bbfe4ede.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.fe4d92a5.chunk.js",
+    "static/css/main.e7362764.chunk.css",
+    "static/js/main.2b5100f2.chunk.js"
+  ]
+}
